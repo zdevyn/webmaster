@@ -1,3 +1,3 @@
 # Devyn a bitch
 
-we gotta get mitchies shti
+mitty put ur shit in research.txt
