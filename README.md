@@ -1,4 +1,4 @@
-# [hello there](https://www.youtube.com/embed/pfPykj7978I?si=8H8N0UldMPZIgBqr)
+# [hello there](https://www.youtube.com/embed/pfPykj7978I?si=8H8N0UldMPZIgBqr&autoplay=true)
 
 ## Contributors
 - **[Mitch2414TTV](https://github.com/Mitch2414TTV)**
