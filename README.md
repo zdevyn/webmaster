@@ -5,4 +5,4 @@
 - **[Amukerd](https://github.com/Amukerd)**
 - **[zdevyn](https://github.com/zdevyn)**
 
-Mitty, please add your shit to [research.txt](https://github.com/Amukerd/webmaster/blob/main/research.txt).
+Mittens, please add your shit to [research.txt](https://github.com/Amukerd/webmaster/blob/main/research.txt).
