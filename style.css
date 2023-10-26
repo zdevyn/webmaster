@@ -3,22 +3,17 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: rgb(136, 220, 129);
-    color: black;
+    color: rgb(0, 125, 6);
 }
 
 header {
     display: flex;
-    background-color: green;
+    background: linear-gradient(to bottom, #008000, #000000);
     padding: 10px;
     text-align: center;
     align-items: center;
     align-content: center;
     color: white;
-    border-bottom: dashed 2px rgb(0, 57, 0);
-}
-
-header h1 {
-    position: static;
 }
 
 .leaf-container {
@@ -42,25 +37,33 @@ footer {
 }
 
 .contributors {
-    background-color: grey;
-    padding: 20px;
-    text-align: center;
-}
-
-.section {
-    background-color: rgb(222, 255, 210);
+    background-color: rgba(20, 202, 0, 0.256);
+    color: #000b00;
     padding-top: 10px;
     padding-left: 25px;
     padding-right: 25px;
     padding-bottom: 20px;
     margin: 10px;
-    border: solid 5px green;
-    border-radius: 3px;
+    border: solid 5px rgba(0, 88, 10, 0);
+    border-radius: 5px;
+    backdrop-filter: blur(10px);
+}
+
+.section {
+    background-color: rgba(14, 137, 0, 0.134);
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+    margin: 10px;
+    border: solid 5px rgba(0, 73, 9, 0);
+    border-radius: 5px;
+    backdrop-filter: blur(10px);
 }
 
 #back-topography {
     position: fixed;
     z-index: -1;
-    height: 100vh;
+    height: 90vw;
     width: 100vw;
 }
