@@ -30,7 +30,7 @@ header {
 }
 
 footer {
-    background-color: black;
+    background: linear-gradient(to bottom, #000000, #008000);
     padding: 10px;
     text-align: center;
     bottom: 0;
