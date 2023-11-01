@@ -1,6 +1,6 @@
 mitty research
-<p> Green energy, What is it? Green energy is using Clean energy, energy that doesn't use coal, oil, or other harmful fossil fuels that will harm our environment. 
-Green energy comes in many different forms solar, wind, Biogas(landfill, gas), Geothermal, Biomass, Low-impact hydroelectricity, and Emerging Technologies. <p> <!-- put in intro -->
+Green energy, What is it? Green energy is using Clean energy, energy that doesn't use coal, oil, or other harmful fossil fuels that will harm our environment. 
+Green energy comes in many different forms solar, wind, Biogas(landfill, gas), Geothermal, Biomass, Low-impact hydroelectricity, and Emerging Technologies. --Intro
 
 
 https://www.energy.gov/energysaver/benefits-residential-solar-electricity
