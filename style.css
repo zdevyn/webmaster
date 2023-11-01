@@ -7,12 +7,9 @@ body {
 }
 
 header {
-    display: flex;
     background: linear-gradient(to bottom, #008000, #000000);
     padding: 10px;
     text-align: center;
-    align-items: center;
-    align-content: center;
     color: white;
 }
 
