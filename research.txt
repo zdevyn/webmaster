@@ -1,6 +1,65 @@
-mitty research
-Green energy, What is it? Green energy is using Clean energy, energy that doesn't use coal, oil, or other harmful fossil fuels that will harm our environment. 
-Green energy comes in many different forms solar, wind, Biogas(landfill, gas), Geothermal, Biomass, Low-impact hydroelectricity, and Emerging Technologies. --Intro
+
+Project Green Light, authored by Tyler, Mitchell, Makenzee, and Devyn, 
+Green Energy
+
+Green energy is clean energy that does not rely on harmful fossil fuels like coal and oil, which can harm our environment. It comes in various forms, including solar, wind, biogas (landfill gas), geothermal, biomass, low-impact hydroelectricity, and emerging technologies.
+
+Solar Energy
+
+Solar energy is one of the most popular and easiest forms of green energy. Here are its pros and cons:
+
+Pros:
+
+Easy to use
+Easiest to install
+Easy to sustain
+Low operating costs
+Reduces your electric bill
+Cons:
+
+Initial installation cost can be substantial
+Less effective on cloudy days
+Requires some maintenance
+Despite the cons, the pros far outweigh them. Investing in solar panels can pay off, and any excess energy can be sold back to your electricity provider.
+
+Tax Incentives
+
+Solar panels can also benefit you in terms of taxes. The Federal Tax Credit can reduce your taxes, and some states offer additional tax rebates. States like California, New York, Massachusetts, New Jersey, Arizona, Oregon, and Colorado provide tax rebates when you install solar panels. These rebates reduce your overall tax burden.
+
+Green Energy Practices
+
+Practicing green energy is crucial to reducing our environmental impact. Some practical ways to do this include:
+
+Opt for biking or using non-gas vehicles for shorter trips.
+Use electric vehicles instead of gasoline-powered ones.
+Carpool or take public transportation.
+Contribute to environmental preservation by picking up trash.
+Reduce your reliance on fossil fuels.
+Encourage others to adopt green energy practices.
+Biking and using electric vehicles reduce carbon emissions and offer eco-friendly transportation alternatives. Carpooling and taking public transportation reduce the number of cars on the road, further lowering emissions. Picking up trash helps keep our environment clean and safe. Reducing fossil fuel usage is essential for our planet's well-being and can be achieved through various means, such as electric vehicles, electric heating, and renewable resources. Lastly, influencing others to follow these practices is crucial for collective environmental progress.
+
+Cost
+
+Solar panels typically cost between $15,000 and $20,000, with some installations exceeding $25,000. The cost can be offset by selling excess energy back to the grid using "Net Billing." On average, homeowners pay around $31 per year for every kilowatt-hour they use, and there is usually a 25-year warranty for solar panels. Battery storage is common among homeowners due to the cost of commercial energy storage methods.
+
+This revised version provides a more organized and clear presentation of your content, making it easier for readers to understand the benefits of green energy, tax incentives, green energy practices, and the costs associated with solar panels.
+Sources
+https://www.nationalgrid.com/stories/energy-explained/what-is-green-energy
+https://turbotax.intuit.com/tax-tips/going-green/federal-tax-credit-for-solar-energy/L7s9ZiB4D
+
+https://www.forbes.com/home-improvement/solar/solar-tax-credit-by-state/#:~:text=States%20with%20a%20high%20number,solar%20incentives%20that%20vary%20significantly. 
+
+https://www.marketwatch.com/guides/solar/solar-panel-maintenance/#:~:text=The%20NREL%20has%20determined%20that,factors%20like%20skilled%20labor%20costs. 
+
+https://aurorasolar.com/blog/storing-solar-energy-everything-you-need-to-know/#:~:text=Lithium%2Dion%20batteries%20are%20the,for%20a%20range%20of%20needs. 
+
+https://www.rocketsolar.com/learn/energy-efficiency/selling-solar-electricity-to-the-grid 
 
 
-https://www.energy.gov/energysaver/benefits-residential-solar-electricity
+
+
+
+
+
+
+
