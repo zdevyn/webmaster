@@ -26,6 +26,10 @@ header {
     display: flex;
 }
 
+li {
+  padding-bottom: 5px;
+}
+
 .leaf-container {
     width: 100px;
     height: 100px;
