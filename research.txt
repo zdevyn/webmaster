@@ -43,6 +43,18 @@ Cost
 Solar panels typically cost between $15,000 and $20,000, with some installations exceeding $25,000. The cost can be offset by selling excess energy back to the grid using "Net Billing." On average, homeowners pay around $31 per year for every kilowatt-hour they use, and there is usually a 25-year warranty for solar panels. Battery storage is common among homeowners due to the cost of commercial energy storage methods.
 
 This revised version provides a more organized and clear presentation of your content, making it easier for readers to understand the benefits of green energy, tax incentives, green energy practices, and the costs associated with solar panels.
+Geothermal Section---
+How Does It Work?
+When used for heating and cooling, the system employs pipes carrying water and anti-freeze. These pipes form a closed loop and circulate, constituting "ground source heat pump systems." They function by cooling buildings in summer and warming them in winter, drawing in the Earth's heat as water and steam circulate back into the building. An interesting tidbit: it can be used underground to melt snow and ice.
+
+Now that You Understand How It Works, Let's Discuss Why You Should Make the Switch!
+There's a multitude of advantages to adopting Geothermal Energy! It's clean, renewable, and emits just one-sixth of the carbon dioxide compared to a clean natural gas power plant. Additionally, it's highly sustainable and, unlike solar energy, provides a consistent energy flow. Moreover, it's exceptionally reliable for heating and cooling your home. As it doesn't require fuel to operate, you needn't fret over skyrocketing gas prices. The extensive research in this field indicates rapid evolution, further enhancing its appeal. While clean energy sources do have downsides, the benefits significantly outweigh the drawbacks.
+
+Disadvantages
+
+One drawback of this clean, renewable energy source is Location Restriction. Certain areas may be unsuitable due to accessibility requirements—it won't function well in places with extensive rock or hard surfaces. However, solar energy remains an option for such regions. Another aspect to consider is the potential release of natural gases during installation, stemming from trapped gases beneath the Earth's surface. Nevertheless, this release is minimal compared to fossil fuels. The primary downside, however, is its cost—installing geothermal energy systems tends to be pricier than solar setups.
+
+
 Sources
 https://www.nationalgrid.com/stories/energy-explained/what-is-green-energy
 https://turbotax.intuit.com/tax-tips/going-green/federal-tax-credit-for-solar-energy/L7s9ZiB4D
