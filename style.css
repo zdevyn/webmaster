@@ -74,10 +74,3 @@ footer {
     border-radius: 5px;
     backdrop-filter: blur(10px);
 }
-
-#back-topography {
-    position: fixed;
-    z-index: -1;
-    height: 90vw;
-    width: 100vw;
-}
