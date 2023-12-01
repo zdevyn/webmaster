@@ -39,11 +39,22 @@ Encourage others to adopt green energy practices.
 Biking and using electric vehicles reduce carbon emissions and offer eco-friendly transportation alternatives. Carpooling and taking public transportation reduce the number of cars on the road, further lowering emissions. Picking up trash helps keep our environment clean and safe. Reducing fossil fuel usage is essential for our planet's well-being and can be achieved through various means, such as electric vehicles, electric heating, and renewable resources. Lastly, influencing others to follow these practices is crucial for collective environmental progress.
 
 Cost
+The cost for an average homeowner interested in solar panels can vary significantly, ranging from $3,500 to $16,000. This fluctuation stems from factors such as the system's size and the type of solar panels chosen, both of which can influence the overall price. There are three primary types of solar panels available: Monocrystalline, Polycrystalline, and Thin-film solar panels.
 
-Solar panels typically cost between $15,000 and $20,000, with some installations exceeding $25,000. The cost can be offset by selling excess energy back to the grid using "Net Billing." On average, homeowners pay around $31 per year for every kilowatt-hour they use, and there is usually a 25-year warranty for solar panels. Battery storage is common among homeowners due to the cost of commercial energy storage methods.
+Polycrystalline solar panels stand as the most affordable option, averaging between $5,400 and $6,000 for a 6kW system. Conversely, the most expensive solar panels are both Monocrystalline and Thin-film, costing between $6,000 and $9,000 for a 6kW system. These costs often reflect the higher efficiency and durability associated with Monocrystalline and Thin-film solar panels, compared to their Polycrystalline counterparts.
 
-This revised version provides a more organized and clear presentation of your content, making it easier for readers to understand the benefits of green energy, tax incentives, green energy practices, and the costs associated with solar panels.
+-- table is in the Google doc the google doc is named Project Green Light please go there for the table and insert it here!
+
+So Is It Worth It?
+On average, a solar panel generates about $0.75 per kilowatt-hour (kWh) or $1.50 per kWh over two hours. Consequently, this equates to approximately $10.50 generated daily, $73.50 weekly, $315 monthly, and $3,780 annually based on a 6kW system.
+
+Considering the initial cost of around $6,000 for a system, the returns from generated energy indicate a worthwhile investment over time. The accumulated savings from generating solar power can significantly offset the initial expense, making it a beneficial and financially sound choice for many homeowners.
+
 Geothermal Section---
+
+What Is It? 
+Geothermal Energy involves harnessing the Earth's natural heat to warm your house. Why make the switch? Geothermal proves an excellent choice for both new and existing houses, offering cost savings and the ability to heat water without relying on electricity. Wondering how you can use it? Geothermal Energy has multiple applications, but its primary uses include water heating, house heating, and electricity generation.
+
 How Does It Work?
 When used for heating and cooling, the system employs pipes carrying water and anti-freeze. These pipes form a closed loop and circulate, constituting "ground source heat pump systems." They function by cooling buildings in summer and warming them in winter, drawing in the Earth's heat as water and steam circulate back into the building. An interesting tidbit: it can be used underground to melt snow and ice.
 
