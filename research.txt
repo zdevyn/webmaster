@@ -52,19 +52,16 @@ Considering the initial cost of around $6,000 for a system, the returns from gen
 
 Geothermal Section---
 
-What Is It? 
 Geothermal Energy involves harnessing the Earth's natural heat to warm your house. Why make the switch? Geothermal proves an excellent choice for both new and existing houses, offering cost savings and the ability to heat water without relying on electricity. Wondering how you can use it? Geothermal Energy has multiple applications, but its primary uses include water heating, house heating, and electricity generation.
+Let's talk about the operational mechanics of geothermal energy systems. These systems utilize the consistent temperature of the Earth's subsurface as a resource for heating and cooling. The Earth's core generates heat continuously through radioactive decay and other processes. This heat conducts through the Earth's layers, creating a relatively stable temperature a few feet below the surface.
 
-How Does It Work?
-When used for heating and cooling, the system employs pipes carrying water and anti-freeze. These pipes form a closed loop and circulate, constituting "ground source heat pump systems." They function by cooling buildings in summer and warming them in winter, drawing in the Earth's heat as water and steam circulate back into the building. An interesting tidbit: it can be used underground to melt snow and ice.
+The functioning of a geothermal system involves the utilization of heat pumps. These pumps transfer heat between the Earth and the building's interior using a fluid that circulates through underground pipes. During winter, the fluid absorbs heat from the ground and carries it indoors, where it warms the building. Conversely, in summer, the process reverses, expelling heat from the building into the ground, effectively cooling the interior.
 
-Now that You Understand How It Works, Let's Discuss Why You Should Make the Switch!
-There's a multitude of advantages to adopting Geothermal Energy! It's clean, renewable, and emits just one-sixth of the carbon dioxide compared to a clean natural gas power plant. Additionally, it's highly sustainable and, unlike solar energy, provides a consistent energy flow. Moreover, it's exceptionally reliable for heating and cooling your home. As it doesn't require fuel to operate, you needn't fret over skyrocketing gas prices. The extensive research in this field indicates rapid evolution, further enhancing its appeal. While clean energy sources do have downsides, the benefits significantly outweigh the drawbacks.
+Now, regarding the advantages, geothermal energy stands out for its minimal environmental impact. Its operation produces significantly lower greenhouse gas emissions compared to conventional heating systems. Additionally, it boasts a longer lifespan than traditional HVAC systems, reducing maintenance costs over time. The consistent nature of the Earth's temperature ensures a reliable energy source, making it a viable long-term investment for homeowners.
 
-Disadvantages
+As for the drawbacks, the initial installation cost remains a considerable barrier for many individuals. While the system pays off in the long run through energy savings, the upfront expenses can be daunting. Moreover, as you mentioned, geological limitations could pose challenges in certain locations, making it less feasible or cost-effective to install these systems.
 
-One drawback of this clean, renewable energy source is Location Restriction. Certain areas may be unsuitable due to accessibility requirements—it won't function well in places with extensive rock or hard surfaces. However, solar energy remains an option for such regions. Another aspect to consider is the potential release of natural gases during installation, stemming from trapped gases beneath the Earth's surface. Nevertheless, this release is minimal compared to fossil fuels. The primary downside, however, is its cost—installing geothermal energy systems tends to be pricier than solar setups.
-
+Despite these limitations, ongoing advancements in technology and increased awareness of environmental sustainability continue to drive innovations in geothermal energy. As research progresses and economies of scale improve, we can anticipate more accessible and cost-effective solutions, further enhancing its appeal as a clean and efficient energy alternative.
 
 Sources
 https://www.nationalgrid.com/stories/energy-explained/what-is-green-energy
