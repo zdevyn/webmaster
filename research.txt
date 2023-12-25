@@ -1,54 +1,6 @@
-
 Project Green Light, authored by Tyler, Mitchell, Makenzee, and Devyn, 
-Green Energy
-
-Green energy is clean energy that does not rely on harmful fossil fuels like coal and oil, which can harm our environment. It comes in various forms, including solar, wind, biogas (landfill gas), geothermal, biomass, low-impact hydroelectricity, and emerging technologies.
-
-Solar Energy
-
-Solar energy is one of the most popular and easiest forms of green energy. Here are its pros and cons:
-
-Pros:
-
-Easy to use
-Easiest to install
-Easy to sustain
-Low operating costs
-Reduces your electric bill
-Cons:
-
-Initial installation cost can be substantial
-Less effective on cloudy days
-Requires some maintenance
-Despite the cons, the pros far outweigh them. Investing in solar panels can pay off, and any excess energy can be sold back to your electricity provider.
-
-Tax Incentives
-
-Solar panels can also benefit you in terms of taxes. The Federal Tax Credit can reduce your taxes, and some states offer additional tax rebates. States like California, New York, Massachusetts, New Jersey, Arizona, Oregon, and Colorado provide tax rebates when you install solar panels. These rebates reduce your overall tax burden.
-
-Green Energy Practices
-
-Practicing green energy is crucial to reducing our environmental impact. Some practical ways to do this include:
-
-Opt for biking or using non-gas vehicles for shorter trips.
-Use electric vehicles instead of gasoline-powered ones.
-Carpool or take public transportation.
-Contribute to environmental preservation by picking up trash.
-Reduce your reliance on fossil fuels.
-Encourage others to adopt green energy practices.
-Biking and using electric vehicles reduce carbon emissions and offer eco-friendly transportation alternatives. Carpooling and taking public transportation reduce the number of cars on the road, further lowering emissions. Picking up trash helps keep our environment clean and safe. Reducing fossil fuel usage is essential for our planet's well-being and can be achieved through various means, such as electric vehicles, electric heating, and renewable resources. Lastly, influencing others to follow these practices is crucial for collective environmental progress.
-
-Cost
-The cost for an average homeowner interested in solar panels can vary significantly, ranging from $3,500 to $16,000. This fluctuation stems from factors such as the system's size and the type of solar panels chosen, both of which can influence the overall price. There are three primary types of solar panels available: Monocrystalline, Polycrystalline, and Thin-film solar panels.
-
-Polycrystalline solar panels stand as the most affordable option, averaging between $5,400 and $6,000 for a 6kW system. Conversely, the most expensive solar panels are both Monocrystalline and Thin-film, costing between $6,000 and $9,000 for a 6kW system. These costs often reflect the higher efficiency and durability associated with Monocrystalline and Thin-film solar panels, compared to their Polycrystalline counterparts.
 
 -- table is in the Google doc the google doc is named Project Green Light please go there for the table and insert it here!
-
-So Is It Worth It?
-On average, a solar panel generates about $0.75 per kilowatt-hour (kWh) or $1.50 per kWh over two hours. Consequently, this equates to approximately $10.50 generated daily, $73.50 weekly, $315 monthly, and $3,780 annually based on a 6kW system.
-
-Considering the initial cost of around $6,000 for a system, the returns from generated energy indicate a worthwhile investment over time. The accumulated savings from generating solar power can significantly offset the initial expense, making it a beneficial and financially sound choice for many homeowners.
 
 Geothermal Section---
 
@@ -65,13 +17,14 @@ Despite these limitations, ongoing advancements in technology and increased awar
 
 Sources
 https://www.nationalgrid.com/stories/energy-explained/what-is-green-energy
+
 https://turbotax.intuit.com/tax-tips/going-green/federal-tax-credit-for-solar-energy/L7s9ZiB4D
 
-https://www.forbes.com/home-improvement/solar/solar-tax-credit-by-state/#:~:text=States%20with%20a%20high%20number,solar%20incentives%20that%20vary%20significantly. 
+https://www.forbes.com/home-improvement/solar/solar-tax-credit-by-state
 
-https://www.marketwatch.com/guides/solar/solar-panel-maintenance/#:~:text=The%20NREL%20has%20determined%20that,factors%20like%20skilled%20labor%20costs. 
+https://www.marketwatch.com/guides/solar/solar-panel-maintenance
 
-https://aurorasolar.com/blog/storing-solar-energy-everything-you-need-to-know/#:~:text=Lithium%2Dion%20batteries%20are%20the,for%20a%20range%20of%20needs. 
+https://aurorasolar.com/blog/storing-solar-energy-everything-you-need-to-know
 
 https://www.rocketsolar.com/learn/energy-efficiency/selling-solar-electricity-to-the-grid 
 
