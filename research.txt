@@ -14,6 +14,18 @@ Now, regarding the advantages, geothermal energy stands out for its minimal envi
 As for the drawbacks, the initial installation cost remains a considerable barrier for many individuals. While the system pays off in the long run through energy savings, the upfront expenses can be daunting. Moreover, as you mentioned, geological limitations could pose challenges in certain locations, making it less feasible or cost-effective to install these systems.
 
 Despite these limitations, ongoing advancements in technology and increased awareness of environmental sustainability continue to drive innovations in geothermal energy. As research progresses and economies of scale improve, we can anticipate more accessible and cost-effective solutions, further enhancing its appeal as a clean and efficient energy alternative.
+Bio mass section ------------------------------------
+What is Biomass?
+Biomass, an organic wonder derived from living organisms like animals and plants, is a versatile and sustainable energy source. Common biomass materials include plants, wood, and waste, collectively known as "feedstock." It is crucial to note that while biomass predominantly embodies a renewable ethos, it can also manifest as a nonrenewable energy source, such as coal.
+How Does it Work?
+Biomass harnesses its energy from plants through the intricate process of photosynthesis. This energy is then transformed into a usable form through both direct and indirect means. Direct conversion involves the combustion of biomass to generate heat, while indirect methods process it into biofuel.
+Burning Biomass
+The thermal conversion of biomass through burning is a pivotal process for energy generation. This involves heating the biomass feedstock to dehydrate or stabilize it. An exemplary material for this process is paper due to its inherent flammability. Before combustion, biomass undergoes torrefaction, a chemical process that dries it at temperatures ranging from 200 to 320 degrees Celsius. Although this results in a 20 percent reduction in mass, the biomass retains an impressive 90 percent of its energy, and the discarded mass is repurposed to fuel the torrefaction process.
+Torrefaction
+During the torrefaction process, biomass transforms into a dry, dark substance, which is then compressed into hydrophobic briquettes. These small, molded blocks of charcoal or biomass possess a dual advantage—they repel water, mitigate the risk of biomass moisture absorption, and offer a high energy density that facilitates easy combustion.
+Biofuel
+Biofuel represents another facet of biomass, distinguishing itself as the only renewable energy source that can be converted into liquid form. Common liquid forms include ethanol and biodiesel. Biodiesel, a synthesis of ethanol and animal fat, recycled cooking fat, or vegetable oil, coexists with ethanol, produced through the fermentation of carbohydrate-rich biomass like wheat or corn. While biofuels may not match the efficiency of traditional gasoline, a judicious blend of the two can yield optimal performance.
+==============================================
 
 Sources
 https://www.nationalgrid.com/stories/energy-explained/what-is-green-energy
@@ -29,6 +41,9 @@ https://aurorasolar.com/blog/storing-solar-energy-everything-you-need-to-know
 https://www.rocketsolar.com/learn/energy-efficiency/selling-solar-electricity-to-the-grid 
 
 https://www.reshot.com/free-svg-icons/
+
+https://education.nationalgeographic.org/resource/biomass-energy/ ---- Bio mass
+
 
 
 
