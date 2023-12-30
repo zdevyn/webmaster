@@ -4,6 +4,5 @@
 - **[Mitch2414TTV](https://github.com/Mitch2414TTV)**
 - **[Amukerd](https://github.com/Amukerd)**
 - **[zdevyn](https://github.com/zdevyn)**
-- **[Tito-Lanky](https://github.com/tito-lanky)**
 
 Mittens, please add your shit to [research.txt](https://github.com/Amukerd/webmaster/blob/main/research.txt).
