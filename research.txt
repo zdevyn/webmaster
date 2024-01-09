@@ -40,7 +40,24 @@ How Much Do They Cost?
 
 Building and maintaining hydropower plants entail substantial financial investments. The average cost of constructing a 1,100 MW hydropower plant is approximately 1 million dollars. While this may seem like a considerable expense, the long-term benefits and sustainable energy output make it a valuable investment for cities that can afford the initial costs. Integrating hydropower into a city's electricity infrastructure not only contributes to cleaner energy but also establishes a more sustainable and environmentally friendly power source.
 ==========================================================================================
+Emerging Tech------
+Emerging Technology 
+In our rapidly advancing world, numerous emerging technologies are shaping the future, particularly in the realm of green and clean energy. Notable innovations include Hydrogen Fuel Cells, Nuclear Fusion, and Long-duration Energy Storage (LDES). These technologies offer promising solutions to maintain the health and cleanliness of our planet.
 
+Hydrogen Fuel Cells
+
+Hydrogen fuel cells, though not entirely new, are gaining attention as a power source for cars. Imagine driving a hydrogen-powered vehicle, utilizing a cutting-edge engine that runs on hydrogen fuel. While these cars come with a hefty price tag and face challenges in terms of fuel availability and cost, they promise superior fuel efficiency, boasting an impressive 40-60% efficiency level compared to the 20-40% efficiency of conventional gasoline engines.
+
+Nuclear Fusion
+
+In contrast to the drawbacks associated with Nuclear Fission, which produces long-lasting toxic waste, Nuclear Fusion presents a different approach. Instead of splitting atoms, it combines the nuclei of two light atoms to create a heavier atom, offering a more efficient energy production method. Though it still generates nuclear waste, the advantage lies in its reduced radioactivity duration. Nuclear Fusion holds the potential to provide copious amounts of energy, albeit with the challenge of finding suitable short-term storage solutions for the waste produced.
+
+Long-duration Energy Storage (LDES)
+
+Crucial to maintaining a balanced power grid, especially during emergencies or outages, LDES technologies play a vital role. These technologies encompass advanced batteries, pumped hydro storage (utilizing dams), and compressed air energy storage. As society continues to prioritize sustainability and resilience, further research is essential to enhance the ease, safety, and efficiency of LDES technologies.
+
+As we delve into these advancements, it's evident that ongoing research and development are key to maximizing the benefits of these emerging technologies, ensuring a cleaner and more sustainable future.
+============================================================================================================
 Sources
 https://www.nationalgrid.com/stories/energy-explained/what-is-green-energy
 
@@ -59,6 +76,10 @@ https://www.reshot.com/free-svg-icons/
 https://education.nationalgeographic.org/resource/biomass-energy/ ---- Biomass
 https://www.energy.gov/eere/water/hydropower-basics#:~:text=Hydropower%2C%20or%20hydroelectric%20power%2C%20is,of%20total%20U.S.%20electricity%20generation. --- Hydro-power
 https://www.statista.com/statistics/799341/global-hydropower-installation-cost/#:~:text=Over%20the%20last%20decade%2C%20the,U.S.%20dollars%20per%20kilowatt%20installed. --- cost hydro
+1. [Google's Advanced Clean Energy Initiatives](https://blog.google/outreach-initiatives/sustainability/advanced-clean-energy-google-paper/#:~:text=These%20technologies%20include%20next-generation,storage%20(LDES)%20and%20others.) - New Tech
+2. [How Do Fuel Cell Electric Cars Work?](https://afdc.energy.gov/vehicles/how-do-fuel-cell-electric-cars-work) - Hydrogen Fuel Cars
+3. [What is Nuclear Fusion?](https://www.iaea.org/newscenter/news/what-is-nuclear-fusion) - Nuclear Fusion
+-------------------------- Emerging Tech
 
 
 
