@@ -27,6 +27,20 @@ Biofuel
 Biofuel represents another facet of biomass, distinguishing itself as the only renewable energy source that can be converted into liquid form. Common liquid forms include ethanol and biodiesel. Biodiesel, a synthesis of ethanol and animal fat, recycled cooking fat, or vegetable oil, coexists with ethanol, produced through the fermentation of carbohydrate-rich biomass like wheat or corn. While biofuels may not match the efficiency of traditional gasoline, a judicious blend of the two can yield optimal performance.
 ==============================================
 
+Hydro Electricity Section -----
+What is hydropower?
+
+Often referred to as hydroelectricity, hydropower harnesses the energy of flowing water to generate electricity. Its roots trace back to ancient times when waterwheels were used for tasks like crushing grain. In more modern applications, hydropower can be harnessed through methods such as impoundment. In a conventional hydropower dam, the process involves impoundment, where water is stored in a large reservoir, such as a dam. Subsequently, the released water flows down, spinning a turbine connected to a generator, ultimately producing electricity.
+
+Where are they mainly used?
+
+Hydropower finds applications in both residential settings and large-scale businesses. Unlike other energy sources, hydropower generates electricity without the need for combustion, allowing for versatile use in various applications. This versatility contributes to its status as the most widely adopted renewable resource.
+
+How Much Do They Cost?
+
+Building and maintaining hydropower plants entail substantial financial investments. The average cost of constructing a 1,100 MW hydropower plant is approximately 1 million dollars. While this may seem like a considerable expense, the long-term benefits and sustainable energy output make it a valuable investment for cities that can afford the initial costs. Integrating hydropower into a city's electricity infrastructure not only contributes to cleaner energy but also establishes a more sustainable and environmentally friendly power source.
+==========================================================================================
+
 Sources
 https://www.nationalgrid.com/stories/energy-explained/what-is-green-energy
 
@@ -42,7 +56,9 @@ https://www.rocketsolar.com/learn/energy-efficiency/selling-solar-electricity-to
 
 https://www.reshot.com/free-svg-icons/
 
-https://education.nationalgeographic.org/resource/biomass-energy/ ---- Bio mass
+https://education.nationalgeographic.org/resource/biomass-energy/ ---- Biomass
+https://www.energy.gov/eere/water/hydropower-basics#:~:text=Hydropower%2C%20or%20hydroelectric%20power%2C%20is,of%20total%20U.S.%20electricity%20generation. --- Hydro-power
+https://www.statista.com/statistics/799341/global-hydropower-installation-cost/#:~:text=Over%20the%20last%20decade%2C%20the,U.S.%20dollars%20per%20kilowatt%20installed. --- cost hydro
 
 
 
