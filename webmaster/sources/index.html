@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grean Energy Initiatives</title>
+    <link rel="icon" id="favicon" href="/img/leaf.png" type="image/x-icon">
+    <link rel="stylesheet" href="/styles.css">
+
+    
+</head>
+<body>
+    <header>
+        <div class="leaf-container">
+            <img src="/img/leaf-black.png" alt="Leaf Img" style="user-select: none; cursor: pointer;">
+        </div>
+        <h1 style="padding-top: 10px;"></h1>
+    </header>    
+
+    <div class="bg-image">
+        <img src="/img/solar0.png" alt="Solar-Wind Image">
+        <div class="bg-image-text">
+            <h1 style="font-size: 50px;">Sources</h1>
+        </div>
+    </div>
+    
+    <div class="top-section">
+        <h1>Sites Used</h1>
+        <p>
+            <a href="https://www.nationalgrid.com/stories/energy-explained/what-is-green-energy" target="_blank">https://www.nationalgrid.com/stories/energy-explained/what-is-green-energy</a><br><br>
+            <a href="https://turbotax.intuit.com/tax-tips/going-green/federal-tax-credit-for-solar-energy/L7s9ZiB4D" target="_blank">https://turbotax.intuit.com/tax-tips/going-green/federal-tax-credit-for-solar-energy/L7s9ZiB4D</a><br><br>
+            <a href="https://www.forbes.com/home-improvement/solar/solar-tax-credit-by-state" target="_blank">https://www.forbes.com/home-improvement/solar/solar-tax-credit-by-state</a><br><br>
+            <a href="https://www.marketwatch.com/guides/solar/solar-panel-maintenance" target="_blank">https://www.marketwatch.com/guides/solar/solar-panel-maintenance</a><br><br>
+            <a href="https://aurorasolar.com/blog/storing-solar-energy-everything-you-need-to-know" target="_blank">https://aurorasolar.com/blog/storing-solar-energy-everything-you-need-to-know</a><br><br>
+            <a href="https://www.rocketsolar.com/learn/energy-efficiency/selling-solar-electricity-to-the-grid" target="_blank">https://www.rocketsolar.com/learn/energy-efficiency/selling-solar-electricity-to-the-grid</a><br><br>
+            <a href="https://www.reshot.com/free-svg-icons" target="_blank">https://www.reshot.com/free-svg-icons</a><br><br>
+        </p>
+    </div>    
+
+    <footer>
+        <b>2023 Webmaster | Designed with <span style="color: green;">❤</span> for a greener future</b>
+        <br>
+        <br>
+        <b><a href="/sources/index.html" style="color: #fff;">Sources</a></b>
+        <button class="back-btn">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#fff"><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"/><path d="M13.293 7.293 8.586 12l4.707 4.707 1.414-1.414L11.414 12l3.293-3.293-1.414-1.414z"/></svg>
+            Back
+        </button>
+
+        <button class="forward-btn">
+            Home
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#fff"><path d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"/><path d="M9.293 8.707 12.586 12l-3.293 3.293 1.414 1.414L15.414 12l-4.707-4.707-1.414 1.414z"/></svg>              
+        </button>
+    </footer>
+    
+    <script>
+        if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            document.getElementById('favicon').setAttribute('href', '/img/leaf.png');
+        } else {
+            document.getElementById('favicon').setAttribute('href', '/img/leaf-black.png');
+        }
+
+        document.querySelector('.back-btn').addEventListener('click', function() {
+            window.location.href = '/emerging/index.html';
+        });
+
+        document.querySelector('.forward-btn').addEventListener('click', function() {
+            window.location.href = '/index.html';
+        });
+
+        document.querySelector('.leaf-container').addEventListener('click', function() {
+            window.location.href = '/index.html';
+        });
+    </script>
+</body>
+</html>

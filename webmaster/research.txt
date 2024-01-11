@@ -1,0 +1,90 @@
+Project Green Light, authored by Tyler, Mitchell, Makenzee, and Devyn, 
+
+-- table is in the Google doc the google doc is named Project Green Light please go there for the table and insert it here!
+
+Geothermal Section---
+
+Geothermal Energy involves harnessing the Earth's natural heat to warm your house. Why make the switch? Geothermal proves an excellent choice for both new and existing houses, offering cost savings and the ability to heat water without relying on electricity. Wondering how you can use it? Geothermal Energy has multiple applications, but its primary uses include water heating, house heating, and electricity generation.
+Let's talk about the operational mechanics of geothermal energy systems. These systems utilize the consistent temperature of the Earth's subsurface as a resource for heating and cooling. The Earth's core generates heat continuously through radioactive decay and other processes. This heat conducts through the Earth's layers, creating a relatively stable temperature a few feet below the surface.
+
+The functioning of a geothermal system involves the utilization of heat pumps. These pumps transfer heat between the Earth and the building's interior using a fluid that circulates through underground pipes. During winter, the fluid absorbs heat from the ground and carries it indoors, where it warms the building. Conversely, in summer, the process reverses, expelling heat from the building into the ground, effectively cooling the interior.
+
+Now, regarding the advantages, geothermal energy stands out for its minimal environmental impact. Its operation produces significantly lower greenhouse gas emissions compared to conventional heating systems. Additionally, it boasts a longer lifespan than traditional HVAC systems, reducing maintenance costs over time. The consistent nature of the Earth's temperature ensures a reliable energy source, making it a viable long-term investment for homeowners.
+
+As for the drawbacks, the initial installation cost remains a considerable barrier for many individuals. While the system pays off in the long run through energy savings, the upfront expenses can be daunting. Moreover, as you mentioned, geological limitations could pose challenges in certain locations, making it less feasible or cost-effective to install these systems.
+
+Despite these limitations, ongoing advancements in technology and increased awareness of environmental sustainability continue to drive innovations in geothermal energy. As research progresses and economies of scale improve, we can anticipate more accessible and cost-effective solutions, further enhancing its appeal as a clean and efficient energy alternative.
+Bio mass section ------------------------------------
+What is Biomass?
+Biomass, an organic wonder derived from living organisms like animals and plants, is a versatile and sustainable energy source. Common biomass materials include plants, wood, and waste, collectively known as "feedstock." It is crucial to note that while biomass predominantly embodies a renewable ethos, it can also manifest as a nonrenewable energy source, such as coal.
+How Does it Work?
+Biomass harnesses its energy from plants through the intricate process of photosynthesis. This energy is then transformed into a usable form through both direct and indirect means. Direct conversion involves the combustion of biomass to generate heat, while indirect methods process it into biofuel.
+Burning Biomass
+The thermal conversion of biomass through burning is a pivotal process for energy generation. This involves heating the biomass feedstock to dehydrate or stabilize it. An exemplary material for this process is paper due to its inherent flammability. Before combustion, biomass undergoes torrefaction, a chemical process that dries it at temperatures ranging from 200 to 320 degrees Celsius. Although this results in a 20 percent reduction in mass, the biomass retains an impressive 90 percent of its energy, and the discarded mass is repurposed to fuel the torrefaction process.
+Torrefaction
+During the torrefaction process, biomass transforms into a dry, dark substance, which is then compressed into hydrophobic briquettes. These small, molded blocks of charcoal or biomass possess a dual advantage—they repel water, mitigate the risk of biomass moisture absorption, and offer a high energy density that facilitates easy combustion.
+Biofuel
+Biofuel represents another facet of biomass, distinguishing itself as the only renewable energy source that can be converted into liquid form. Common liquid forms include ethanol and biodiesel. Biodiesel, a synthesis of ethanol and animal fat, recycled cooking fat, or vegetable oil, coexists with ethanol, produced through the fermentation of carbohydrate-rich biomass like wheat or corn. While biofuels may not match the efficiency of traditional gasoline, a judicious blend of the two can yield optimal performance.
+==============================================
+
+Hydro Electricity Section -----
+What is hydropower?
+
+Often referred to as hydroelectricity, hydropower harnesses the energy of flowing water to generate electricity. Its roots trace back to ancient times when waterwheels were used for tasks like crushing grain. In more modern applications, hydropower can be harnessed through methods such as impoundment. In a conventional hydropower dam, the process involves impoundment, where water is stored in a large reservoir, such as a dam. Subsequently, the released water flows down, spinning a turbine connected to a generator, ultimately producing electricity.
+
+Where are they mainly used?
+
+Hydropower finds applications in both residential settings and large-scale businesses. Unlike other energy sources, hydropower generates electricity without the need for combustion, allowing for versatile use in various applications. This versatility contributes to its status as the most widely adopted renewable resource.
+
+How Much Do They Cost?
+
+Building and maintaining hydropower plants entail substantial financial investments. The average cost of constructing a 1,100 MW hydropower plant is approximately 1 million dollars. While this may seem like a considerable expense, the long-term benefits and sustainable energy output make it a valuable investment for cities that can afford the initial costs. Integrating hydropower into a city's electricity infrastructure not only contributes to cleaner energy but also establishes a more sustainable and environmentally friendly power source.
+==========================================================================================
+Emerging Tech------
+Emerging Technology 
+In our rapidly advancing world, numerous emerging technologies are shaping the future, particularly in the realm of green and clean energy. Notable innovations include Hydrogen Fuel Cells, Nuclear Fusion, and Long-duration Energy Storage (LDES). These technologies offer promising solutions to maintain the health and cleanliness of our planet.
+
+Hydrogen Fuel Cells
+
+Hydrogen fuel cells, though not entirely new, are gaining attention as a power source for cars. Imagine driving a hydrogen-powered vehicle, utilizing a cutting-edge engine that runs on hydrogen fuel. While these cars come with a hefty price tag and face challenges in terms of fuel availability and cost, they promise superior fuel efficiency, boasting an impressive 40-60% efficiency level compared to the 20-40% efficiency of conventional gasoline engines.
+
+Nuclear Fusion
+
+In contrast to the drawbacks associated with Nuclear Fission, which produces long-lasting toxic waste, Nuclear Fusion presents a different approach. Instead of splitting atoms, it combines the nuclei of two light atoms to create a heavier atom, offering a more efficient energy production method. Though it still generates nuclear waste, the advantage lies in its reduced radioactivity duration. Nuclear Fusion holds the potential to provide copious amounts of energy, albeit with the challenge of finding suitable short-term storage solutions for the waste produced.
+
+Long-duration Energy Storage (LDES)
+
+Crucial to maintaining a balanced power grid, especially during emergencies or outages, LDES technologies play a vital role. These technologies encompass advanced batteries, pumped hydro storage (utilizing dams), and compressed air energy storage. As society continues to prioritize sustainability and resilience, further research is essential to enhance the ease, safety, and efficiency of LDES technologies.
+
+As we delve into these advancements, it's evident that ongoing research and development are key to maximizing the benefits of these emerging technologies, ensuring a cleaner and more sustainable future.
+============================================================================================================
+Sources
+https://www.nationalgrid.com/stories/energy-explained/what-is-green-energy
+
+https://turbotax.intuit.com/tax-tips/going-green/federal-tax-credit-for-solar-energy/L7s9ZiB4D
+
+https://www.forbes.com/home-improvement/solar/solar-tax-credit-by-state
+
+https://www.marketwatch.com/guides/solar/solar-panel-maintenance
+
+https://aurorasolar.com/blog/storing-solar-energy-everything-you-need-to-know
+
+https://www.rocketsolar.com/learn/energy-efficiency/selling-solar-electricity-to-the-grid 
+
+https://www.reshot.com/free-svg-icons/
+
+https://education.nationalgeographic.org/resource/biomass-energy/ ---- Biomass
+https://www.energy.gov/eere/water/hydropower-basics#:~:text=Hydropower%2C%20or%20hydroelectric%20power%2C%20is,of%20total%20U.S.%20electricity%20generation. --- Hydro-power
+https://www.statista.com/statistics/799341/global-hydropower-installation-cost/#:~:text=Over%20the%20last%20decade%2C%20the,U.S.%20dollars%20per%20kilowatt%20installed. --- cost hydro
+1. [Google's Advanced Clean Energy Initiatives](https://blog.google/outreach-initiatives/sustainability/advanced-clean-energy-google-paper/#:~:text=These%20technologies%20include%20next-generation,storage%20(LDES)%20and%20others.) - New Tech
+2. [How Do Fuel Cell Electric Cars Work?](https://afdc.energy.gov/vehicles/how-do-fuel-cell-electric-cars-work) - Hydrogen Fuel Cars
+3. [What is Nuclear Fusion?](https://www.iaea.org/newscenter/news/what-is-nuclear-fusion) - Nuclear Fusion
+-------------------------- Emerging Tech
+
+
+
+
+
+
+
+
