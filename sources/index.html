@@ -2,21 +2,21 @@
 <html>
 <head>
     <title>Grean Energy Initiatives</title>
-    <link rel="icon" id="favicon" href="/img/leaf.png" type="image/x-icon">
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="icon" id="favicon" href="/webmaster/img/leaf.png" type="image/x-icon">
+    <link rel="stylesheet" href="/webmaster/styles.css">
 
     
 </head>
 <body>
     <header>
         <div class="leaf-container">
-            <img src="/img/leaf-black.png" alt="Leaf Img" style="user-select: none; cursor: pointer;">
+            <img src="/webmaster/img/leaf-black.png" alt="Leaf Img" style="user-select: none; cursor: pointer;">
         </div>
         <h1 style="padding-top: 10px;"></h1>
     </header>    
 
     <div class="bg-image">
-        <img src="/img/solar0.png" alt="Solar-Wind Image">
+        <img src="/webmaster/img/solar0.png" alt="Solar-Wind Image">
         <div class="bg-image-text">
             <h1 style="font-size: 50px;">Sources</h1>
         </div>
@@ -53,21 +53,21 @@
     
     <script>
         if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            document.getElementById('favicon').setAttribute('href', '/img/leaf.png');
+            document.getElementById('favicon').setAttribute('href', '/webmaster/img/leaf.png');
         } else {
-            document.getElementById('favicon').setAttribute('href', '/img/leaf-black.png');
+            document.getElementById('favicon').setAttribute('href', '/webmaster/img/leaf-black.png');
         }
 
         document.querySelector('.back-btn').addEventListener('click', function() {
-            window.location.href = '/emerging/index.html';
+            window.location.href = '/webmaster/emerging/index.html';
         });
 
         document.querySelector('.forward-btn').addEventListener('click', function() {
-            window.location.href = '/index.html';
+            window.location.href = '/webmaster/index.html';
         });
 
         document.querySelector('.leaf-container').addEventListener('click', function() {
-            window.location.href = '/index.html';
+            window.location.href = '/webmaster/index.html';
         });
     </script>
 </body>
